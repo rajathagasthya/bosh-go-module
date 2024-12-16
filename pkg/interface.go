@@ -1,7 +1,8 @@
 package pkg
 
 type Bosh struct {
-	Name string
-	Type string
-	ID   int
+	Name   string
+	Type   string
+	ID     int
+	Source string
 }
